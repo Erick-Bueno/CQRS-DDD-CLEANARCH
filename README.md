@@ -1,0 +1,1 @@
+﻿repositorio criado com o intuito de estudar os padrões cqrs ddd e clean arch
