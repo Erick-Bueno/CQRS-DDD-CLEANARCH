@@ -1,1 +1,10 @@
 ﻿.idea
+src/cqrsdddcleanarch/cqrsdddcleanarch.Api/appsettings.Development.json
+src/cqrsdddcleanarch/cqrsdddcleanarch.Api/obj
+src/cqrsdddcleanarch/cqrsdddcleanarch.Api/Properties
+src/cqrsdddcleanarch/cqrsdddcleanarch.Infrastructure/obj
+src/cqrsdddcleanarch/cqrsdddcleanarch.Infrastructure/Properties
+src/cqrsdddcleanarch/cqrsdddcleanarch.Domain/obj
+src/cqrsdddcleanarch/cqrsdddcleanarch.Domain/Properties
+src/cqrsdddcleanarch/cqrsdddcleanarch.Application/obj
+src/cqrsdddcleanarch/cqrsdddcleanarch.Application/Properties
